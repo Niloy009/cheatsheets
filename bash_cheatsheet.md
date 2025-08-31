@@ -1,5 +1,11 @@
-Hello, I am Niloy Saha Roy, who is learning BASH now
+Hello, I am Niloy Saha Roy, who is learning BASH now <br>
 Its fun to learn new things.
+
+# First things we must know
+```bash
+man mv  # manual(doctring) of mv
+```
+> This `man` command will open the manual or docstring of the bash command
 
 Some useful commands:
 ```bash
@@ -42,5 +48,4 @@ nano filename.txt         # open nano editor and create a file filename.txt
 
 ### Step 5 
 - Press `Ctrl + X`  to exit nano editor and return to shell
-
 
