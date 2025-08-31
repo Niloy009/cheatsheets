@@ -19,6 +19,12 @@ mkdir new_dir		# create a new directory
 rm file.txt		# delete a file
 
 rm -r new_dir		# delete a directory
+
+mv old_name.txt new_name.txt 	# change the file name
+
+cp file_1.txt file_2.txt 	# copy the content of file_1 to file_2
+
+cp -r dir_1 dir_2 		# copy directory
 ```
 
 # When we want to use nano editor, we have to follow some general steps as follows:
