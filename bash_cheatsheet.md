@@ -21,11 +21,19 @@ rm file.txt		# delete a file
 rm -r new_dir		# delete a directory
 ```
 
+# When we want to use nano editor, we have to follow some general steps as follows:
+```bash
+# Step 1
+nano filename.txt         # open nano editor and create a file filename.txt
+```
+### Step 2 ->  Then write whatever we need
+
+### Step 3 
+- Press `Ctrl + O`         # to save our work
+
+### Step 4 -> Press "Enter" to accept the change
+
+### Step 5 
+- Press `Ctrl + X`         # to exit nano editor and return to shell
 
 
-when we want to use nano editor, we have to follow some general steps as follows:
-1. nano filename.txt         # open nano editor and create a file filename.txt
-2. Then write whatever we need 
-3. Press "Control + O"         # to save our work
-4. Press "Enter"               # to accept the change
-5. Press "Control + X"         # to exit nano editor and return to shell
